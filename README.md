@@ -3,6 +3,8 @@
 This is a collection of Jupyter Notebooks for exploring historical data through API's, using JupyterLite and the JupyterLite GitHub Pages template. 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
+## Notebooks:
+- original source of the 'Downloading Search Results from Chronicling America' notebook is https://libraryofcongress.github.io/data-exploration/loc.gov%20JSON%20API/Chronicling_America/ChronAm-download_results.html
 
 ## JupyterLite specifications
 
