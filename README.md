@@ -4,6 +4,10 @@ This is a collection of Jupyter Notebooks for exploring historical data through 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
 ## Notebooks:
+- Historic Hansard is the work of Tim Sherratt, available at the GLAM Workbench. All work using this notebook should cite:
+
+Sherratt, Tim. (2019, November 17). GLAM-Workbench/australian-commonwealth-hansard (Version v0.1.0). Zenodo. [http://doi.org/10.5281/zenodo.3544706](http://doi.org/10.5281/zenodo.3544706)
+
 - original source of the 'Downloading Search Results from Chronicling America' notebook is https://libraryofcongress.github.io/data-exploration/loc.gov%20JSON%20API/Chronicling_America/ChronAm-download_results.html
 
 ## JupyterLite specifications
